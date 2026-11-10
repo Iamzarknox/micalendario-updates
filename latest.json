@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.15.1",
-  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.15.1/MiCalendario-1.15.1.apk",
-  "sha256": "E35DF3CE0F68C9008A8D23575033F3BB2470023CD42EF4038B207F34A4DBBDFE",
-  "notes": "Actualizacion de prueba desde 1.15.0. Descarga con el gestor de Android."
+  "versionCode": 30,
+  "versionName": "1.15.2",
+  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.15.2/MiCalendario-1.15.2.apk",
+  "sha256": "AE76BA1B218F2EA5EACCCDB5779255F0164AD34837DBEC9E60FF80AA9F965AAC",
+  "notes": "Emojis e imagenes independientes por mitad diagonal, centrados y ajustados al triangulo."
 }
