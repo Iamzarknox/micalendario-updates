@@ -4,5 +4,7 @@
   "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.15.8/MiCalendario-1.15.8.apk",
   "sha256": "0244775FAB3F7EBE91E7D67D95797CEED7B4E0891DD40F9745A7472637901730",
   "notes": "Version de prueba, sin cambios.",
-  "mirrors": []
+  "mirrors": [
+    "https://raw.githubusercontent.com/Iamzarknox/micalendario-updates/apk/MiCalendario-1.15.8.apk"
+  ]
 }
