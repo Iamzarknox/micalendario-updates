@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.14.9",
-  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.14.9/MiCalendario-1.14.9.apk",
-  "sha256": "3CB170C4AB82ED6B59B04AF728A446F849555DC6816F0F7DE26E44EA256B9219",
-  "notes": "Actualizacion de prueba desde 1.14.8. Gestor de APKs y cierre de pantalla auxiliar."
+  "versionCode": 29,
+  "versionName": "1.15.1",
+  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.15.1/MiCalendario-1.15.1.apk",
+  "sha256": "E35DF3CE0F68C9008A8D23575033F3BB2470023CD42EF4038B207F34A4DBBDFE",
+  "notes": "Actualizacion de prueba desde 1.15.0. Descarga con el gestor de Android."
 }
