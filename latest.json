@@ -1,10 +1,10 @@
 {
-  "versionCode": 33,
-  "versionName": "1.15.5",
-  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.15.5/MiCalendario-1.15.5.apk",
-  "sha256": "30C323183D29D4D8E97E29945D34C6362E9144550FE8D50727D2634D5F775F6C",
-  "notes": "Prueba del actualizador interno: descarga dentro de la app con progreso y espejo.",
+  "versionCode": 34,
+  "versionName": "1.15.6",
+  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.15.6/MiCalendario-1.15.6.apk",
+  "sha256": "5B890B4031876B4DB136FF5E3637F6047D604B403BF35E2EE401811E7E4F7B4A",
+  "notes": "El aviso de instalar de Android sale solo al terminar la descarga.",
   "mirrors": [
-    "https://raw.githubusercontent.com/Iamzarknox/micalendario-updates/apk/MiCalendario-1.15.5.apk"
+    "https://raw.githubusercontent.com/Iamzarknox/micalendario-updates/apk/MiCalendario-1.15.6.apk"
   ]
 }
