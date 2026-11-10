@@ -11,10 +11,10 @@ Canal **público** de actualizaciones de MiCalendario.
 
 ```json
 {
-  "versionCode": 30,
-  "versionName": "1.15.2",
-  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.15.2/MiCalendario-1.15.2.apk",
-  "sha256": "AE76BA1B218F2EA5EACCCDB5779255F0164AD34837DBEC9E60FF80AA9F965AAC",
-  "notes": "Emojis e imagenes independientes por mitad diagonal."
+  "versionCode": 31,
+  "versionName": "1.15.3",
+  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.15.3/MiCalendario-1.15.3.apk",
+  "sha256": "0EA3C5E35DCE17340BA23814339302DC5B6AA5FFD6EE6C155EFE985292413C0C",
+  "notes": "Emojis centrados en el incentro de cada triangulo."
 }
 ```
