@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.12.0",
-  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.12.0/MiCalendario-1.12.0.apk",
-  "sha256": "A0B2CCE1395273F4B1A735DDDD88968ED744E34BE5A53AEF41443598471D752E",
-  "notes": "Autoactualizacion y selector de iconos con emojis, emoticonos e imagenes propias."
+  "versionCode": 16,
+  "versionName": "1.13.0",
+  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.13.0/MiCalendario-1.13.0.apk",
+  "sha256": "3EC021ACF2AD89FD888A9C7A252D57A66C9DD7DE60E624E1CDF86C9BB4D22644",
+  "notes": "Aviso de actualizacion en barra superior y catalogo de emojis ampliado."
 }
