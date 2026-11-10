@@ -11,10 +11,10 @@ Canal **público** de actualizaciones de MiCalendario.
 
 ```json
 {
-  "versionCode": 14,
-  "versionName": "1.11.0",
-  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.11.0/MiCalendario-1.11.0.apk",
-  "sha256": "658997C0388BE136A6445A618BB9F4FAE45FC38E317E98C8B2C0D74A5904770A",
-  "notes": "Emoticonos en las casillas y dos leyendas por dia."
+  "versionCode": 15,
+  "versionName": "1.12.0",
+  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.12.0/MiCalendario-1.12.0.apk",
+  "sha256": "A0B2CCE1395273F4B1A735DDDD88968ED744E34BE5A53AEF41443598471D752E",
+  "notes": "Autoactualizacion y selector de iconos con emojis, emoticonos e imagenes propias."
 }
 ```
