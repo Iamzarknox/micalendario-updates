@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.13.0",
-  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.13.0/MiCalendario-1.13.0.apk",
-  "sha256": "3EC021ACF2AD89FD888A9C7A252D57A66C9DD7DE60E624E1CDF86C9BB4D22644",
-  "notes": "Aviso de actualizacion en barra superior y catalogo de emojis ampliado."
+  "versionCode": 17,
+  "versionName": "1.13.1",
+  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.13.1/MiCalendario-1.13.1.apk",
+  "sha256": "D92DF5E064448D8A72EF271791A324B831972F0A54B621D141850C45C0086415",
+  "notes": "Instalacion con PackageInstaller y confirmacion de Android."
 }
