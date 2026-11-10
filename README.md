@@ -11,10 +11,10 @@ Canal **público** de actualizaciones de MiCalendario.
 
 ```json
 {
-  "versionCode": 19,
-  "versionName": "1.14.1",
-  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.14.1/MiCalendario-1.14.1.apk",
-  "sha256": "20AE415DB95E80A421083BC371991F53B4F26D1185AD8518C359357DF3380B3E",
-  "notes": "Actualizacion de prueba desde 1.14.0."
+  "versionCode": 21,
+  "versionName": "1.14.3",
+  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.14.3/MiCalendario-1.14.3.apk",
+  "sha256": "DE708B46C72BC5269B7010567B10418174A72149A93FC78DD03B3B11DC133644",
+  "notes": "Actualizacion de prueba desde 1.14.2."
 }
 ```
