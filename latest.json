@@ -1,10 +1,10 @@
 {
-  "versionCode": 38,
-  "versionName": "1.16.0",
-  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.16.0/MiCalendario-1.16.0.apk",
-  "sha256": "F53BD609C2EEDA25B7BE71227A0EB956B2F6245C107E62B67A72729232976DCA",
-  "notes": "~1550 emojis en 17 categorias, con banderas, buscador y recientes primero.",
+  "versionCode": 39,
+  "versionName": "1.16.1",
+  "apkUrl": "https://github.com/Iamzarknox/micalendario-updates/releases/download/v1.16.1/MiCalendario-1.16.1.apk",
+  "sha256": "E4B5396DCA2CBE45FC62E76D404D05393FA6764A96CBC882D74DBC2C314F38E8",
+  "notes": "~2470 emojis en 24 categorias, con casi todos los paises.",
   "mirrors": [
-    "https://raw.githubusercontent.com/Iamzarknox/micalendario-updates/apk/MiCalendario-1.16.0.apk"
+    "https://raw.githubusercontent.com/Iamzarknox/micalendario-updates/apk/MiCalendario-1.16.1.apk"
   ]
 }
